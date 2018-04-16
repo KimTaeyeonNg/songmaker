@@ -1,4 +1,0 @@
-:merb_global:
-  :message_provider: gettext
-  :flat: true
-  :locales: ['en', 'pl']
